@@ -1,0 +1,10 @@
+Validation command: python3 driver3.py
+
+Item                  Points   Max points   Misses
+Csim correctness      27.0     27           -
+Trans perf 32x32        8.0      8           288
+Trans perf 64x64        8.0      8           1236
+Trans perf 61x67       10.0     10           1993
+Total                 53.0     53
+
+All three transpose correctness checks passed.

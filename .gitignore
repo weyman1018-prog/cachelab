@@ -1,0 +1,14 @@
+*.o
+*.tar
+*.bak
+*.log
+/csim
+/test-trans
+/tracegen
+/trace.tmp
+/trace-debug.tmp
+/trace.all
+/trace.f*
+/.csim_results
+/.marker
+__pycache__/
